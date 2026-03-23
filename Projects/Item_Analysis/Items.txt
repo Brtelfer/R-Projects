@@ -1,0 +1,41 @@
+Two Facets for the Trait of Competitive Excellence
+
+Other Referent Goals
+1 It is important for me to outperform my co-workers.
+14 School is all about being better than others.
+22 It really doesn’t matter how well I learn something as long as I learn
+it better than others.
+35 I work hard in my classes so I can impress others.
+79 I strive to do my job better than the people I work with.
+83 It really upsets me when someone does something better than I do.
+84 Winning isn’t everything, it’s the only thing.
+187 Competition with others motivates me to be a better student.
+198 I push myself to try to be the best.
+248R Although I may lose more frequently, I prefer to play games with people
+who are more skilled than me.
+281 I feel successful when I beat someone at a game of skill, even if they
+are not a very good player.
+293 My academic goals concern doing better than other students.
+294 I am motivated to do things better than others.
+315 My personal goals involve doing better than others.
+327 I feel successful when I do things better than others.
+336 I get upset when others do something better than me.
+341 It’s important for me to get higher grades than most of the students in
+my classes.
+377 I feel successful when I am able to answer a difficult question that
+most others get wrong.
+387 I feel successful when I score higher on a test than most of the other
+students in the class.
+Competition Seeking
+60R I would rather cooperate than compete.
+104 I enjoy competing with others.
+156 I like to make most of the things I do into a competition.
+161R I am not a competitive person.
+202 Even though it may not be appropriate, I can find competition in almost
+any situation.
+246 I perform best when I compete with others.
+317R I dislike competitiveness in the classroom.
+384R I dislike competitive situations.
+395 If I have to do something boring, I will make up a competition with
+myself to help me keep going.
+414R I try to avoid very competitive situations.

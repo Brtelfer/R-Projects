@@ -1,0 +1,29 @@
+In total, these are the items I have opted to remove and the following reasons why:
+    - Q377 (RFG):
+        - Removed becasue it has a low SD, low total item correlation, near zero intercorrelations with other items, very low factor loading, very high mean and a very low individual correlation with GPA.
+        
+        While the item: "I feel successful when I am able to answer a difficult question that most others get wrong." on the surface appears to be very similar to other items such as Q387, it has a social comparison aspect, making it very similar to items Q327, Q387 and Q341.
+        All of these items pertain to getting explicitly getting 'higher' outcomes than one's peers. The only notable difference I discovered, was the "most others get wrong" part.
+        My guess is that most of the items represent doing well in a more broad sense, and others lean towards doing well relative to those around you. 
+        That is, some people might be scoring differently because they moreso care about looking good relative to those in their social sphere.
+
+    - Q395 (CS):
+        - Removed because of low item-total r, intercorrelations, factor loading and validity
+       
+        If we look at the item, while it does mention compettitiveness, it may also be assessing something else, like creativity, imagination or an intollerance for boredom.
+        If we look at the EFA, we can see a mild loading onto CS and no loading onto RFG which suggests that it might explain another factor partially. 
+        Hence, I would either change this item or remove it.
+
+    - Considereded removing Q414 (CS) because of a moderate gender diff. 
+    However after looking at the item, there does not appear to be any reason to suspect why it would be unfair to one gender.
+    
+    - Strongly debated removing Q248 becasue of the low Item-total r and intercorrelations, but it actually predicts GPA. The item is clearly very different.
+    That is, it implies a lower aversion to failure and struggle, something essential to learning.and mastery. I personally think that this item might measure.
+    Performance goal orientation moreso than mastery orientation, which is why this item predicts GPA, but does not load well with the other items. 
+    I think the same could be said about Q198.
+
+        - So, if I wanted to predict GPA, I would keep it. 
+        If I wanted to predict compettitiveness, I would remove the item and tweak all items that conflate authority with superiority in RFG (like 377).
+
+    For both RFG and CS, removing these items did not appear to have a substantial impact of the predictive power of these scores on GPA.
+

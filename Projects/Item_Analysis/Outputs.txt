@@ -1,0 +1,92 @@
+These are the following criteria I used to determine whether or not to remove different items.
+
+Item Means:
+RFG:
+    - High:
+        - Q104(4.16)
+    - Low:
+        - Q022(2.61)
+CS:
+    - High:
+        - Q104(4.16)
+    - Low:
+        - Q060(2.63)
+    
+Very Small Standard Deviations:
+RFG:
+    - Q377(.78)
+CS:
+    - Q161(1.52)
+
+Item Intercorrelations
+RFG:
+    - Low:
+        # 1  Q248 Q014 -0.15166787
+        # 2  Q014 Q248 -0.15166787
+        # 3  Q293 Q248 -0.08218249
+        # 4  Q248 Q293 -0.08218249
+        # 5  Q248 Q022 -0.05472311
+        # 6  Q022 Q248 -0.05472311
+        # 7  Q377 Q248 -0.04683279
+        # 8  Q248 Q377 -0.04683279
+        # 9  Q315 Q248 -0.04450133
+        # 10 Q248 Q315 -0.04450133
+
+    - High:
+        # Q294 + Q341 — 0.712
+        # Q293 + Q294 — 0.697
+        # Q293 + Q315 — 0.694
+        # Q294 + Q315 — 0.694
+        # Q293 + Q341 — 0.651
+        # Q083 + Q336 — 0.644
+        # Q315 + Q341 — 0.616
+        # Q035 + Q315 — 0.587
+        # Q327 + Q336 — 0.562
+        # Q327 + Q387 — 0.554
+CS:
+    - Low:
+        # 1  Q395 Q384   0.1966867
+        # 2  Q384 Q395   0.1966867
+        # 3  Q395 Q317   0.2248633
+        # 4  Q317 Q395   0.2248633
+        # 5  Q395 Q161   0.2282070
+        # 6  Q161 Q395   0.2282070
+        # 7  Q414 Q395   0.2478052
+        # 8  Q395 Q414   0.2478052
+        # 9  Q395 Q104   0.2497719
+        # 10 Q104 Q395   0.2497719
+    - High:
+        # Q104 + Q384 — 0.725
+        # Q104 + Q161 — 0.718
+        # Q384 + Q414 — 0.681
+        # Q060 + Q104 — 0.656
+        # Q202 + Q246 — 0.655
+        # Q104 + Q156 — 0.638
+        # Q156 + Q202 — 0.625
+        # Q161 + Q384 — 0.623
+        # Q156 + Q384 — 0.613
+        # Q104 + Q414 — 0.612
+
+Item–Total Correlations:
+RFG:
+    - Low: Q198(0.358)
+    - Negative: Q248(-0.017)
+    - Very High: Q293(.723), Q294(.758), Q315(.778), Q341(.747)
+CS:
+    - Low: Q395(.32)
+    - Negative: None
+    - Very High: Most of them are actually quite high but Q104(.81) in particular
+
+Factor Loadings:
+Q198 (h2 = .19) and Q395(h2 = .13) do not load very strongly onto either factor. Q377 has a low h2 = .11, but it still loads strongly onto CS (PA1 = .38).
+
+Group Differences:
+    - Sex:
+        - RFG: 
+            Q084 shows the most substantial gender difference (1.06 points) - Males rate themselves nearly a full point higher on average.
+            All differences except Q377 and Q035 show males scoring higher than females. However, the biserial correlations are not very strong.
+        - CS: All 10 items show males scoring higher than females, with Q202 showing the most dramatic difference (1.23 points) The biserial correlation for Q202 is -0.562
+
+Poor Item Validity:
+    - Of CS, only Q414(.17) shows a significant unadjusted p. Q104 and Q395 also have very minor correlations but they are not significant.
+    - Of RFG, only Q198(0.32) and Q248(-.27) show strong, significant correlations with GPA.
